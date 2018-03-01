@@ -1,0 +1,9 @@
+Accions
+Espai disc dur
+Jocs
+Inici
+No pots tornar a instalar el mateix joc
+No pots tornar a instalar el mateix joc
+No pots desinstalar un joc que no tens
+Pots jugar
+Espai en disc: 140

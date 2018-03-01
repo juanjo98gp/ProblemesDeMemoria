@@ -1,0 +1,10 @@
+Accions
+Espai disc dur
+Jocs
+Inici
+No pots tornar a instalar el mateix joc
+No pots desinstalar un joc que no tens
+No pots tornar a instalar el mateix joc
+No pots tornar a instalar el mateix joc
+Espai en disc insuficient
+Espai en disc: 44232
